@@ -1,6 +1,6 @@
 _.groupBy
 _.forEach
-_.indexBy
+_.indexOf
 _.uniq
 _.map
 _.intersection
